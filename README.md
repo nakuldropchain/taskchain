@@ -61,3 +61,17 @@ Marks a specific task as completed by task ID.
    ```bash
    git clone https://github.com/your-username/TaskChain.git
    cd TaskChain
+   
+2. Open the project in your preferred code editor.
+
+3. Navigate to the contract file `TaskChain.sol` and review the code.
+
+4. Open Remix IDE and create a new file, then copy and paste the contract code from `TaskChain.sol`.
+
+5. Compile the contract using the Solidity compiler in Remix (make sure the compiler version matches `0.8.x`).
+
+6. Deploy the contract using Remix's "Deploy & Run Transactions" feature. Ensure that MetaMask is connected to the desired Ethereum test network.
+
+7. Copy the deployed contract address for future interactions.
+
+8. Test the smart contract by interacting with the `createTask`, `getTasks`, and `completeTask` functions from Remix.
