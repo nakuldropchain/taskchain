@@ -43,7 +43,7 @@ Creates a new task with a given description. The task is stored under the user's
 Returns all tasks associated with the caller's address.
 
 ### `completeTask(uint256 _taskId)`
-Marks a specific task as completed by task ID.
+Marks a specific task as completed by task ID..
 
 ---
 
